@@ -22,7 +22,7 @@ A simple Unix‐style shell written in C by **Nikos Iliakis** ([`@nickiliak`](ht
 
 ```bash
 # Clone your repo
-git clone https://github.com/nickiliak/c-shell.git
+git clone https://github.com/nickiliak/C-Shell-Interperter.git
 cd c-shell
 
 # Build using the Makefile
